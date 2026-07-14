@@ -1,0 +1,9 @@
+{
+  "name": "Fast Track",
+  "short_name": "Fast Track",
+  "start_url": "./mohit-tracker.html",
+  "display": "standalone",
+  "background_color": "#141a20",
+  "theme_color": "#141a20",
+  "icons": []
+}
